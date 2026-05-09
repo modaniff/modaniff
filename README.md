@@ -74,5 +74,5 @@ I always try to improve my skills by building projects and completing college as
 
 
 <p align="center">
-  ✨ Don't Forget Alwasys 24434 and Smile ✨
+  ✨ Don't Forget Always 24434 and Smile ✨
 </p>
