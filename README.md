@@ -33,7 +33,7 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://media.tenor.com/tfUHnS0Ww3AAAAAC/cristiano-ronaldo-siuuu.gif"
+    src="https://tenor.com/id/view/cmc-good-morning-love-gif-133561736696239591"
     width="350"
     alt="Cristiano Ronaldo SIUU Celebration"
   />
@@ -54,9 +54,8 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"
-    width="350"
-    alt="Cristiano Ronaldo SIUU Celebration"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight"
+    width="48%"
   />
 </p>
 
