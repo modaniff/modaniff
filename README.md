@@ -22,11 +22,9 @@ I always try to improve my skills by building projects and completing college as
 
 ## Quick Facts
 
-- Based in Indonesia
 - Informatics Engineering Student at Universitas Trunojoyo Madura
 - Interested in Web Development and Programming
 - Learning Database Management and Data Mining
-- Exploring Laravel, MySQL, GitHub, and Machine Learning
 - Hobby : Playing Football, Futsal, and Other Sports
 - Dream Career : Joining the Indonesian Navy 
 - Always Learning New Things and Smile
