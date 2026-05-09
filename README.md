@@ -1,4 +1,4 @@
-<h1 align="center">MOHAMMAD DANI FERDIANSYAH</h1>
+<h1 align="center">MOHAMMAD DANI F.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;Learning+PHP+and+Database;Always+Learning+New+Things" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ## Who Am I?
 
-Hi! I am **Mohammad Dani Ferdiansyah**.  
+Hi! I am **Mohammad Dani F.**.  
 I am currently studying **Informatics Engineering** at **Universitas Trunojoyo Madura**.  
 I enjoy learning about **Web Development, Databases, and Programming**.  
 Right now, I am exploring **Laravel, MySQL, GitHub, and Data Mining**.  
