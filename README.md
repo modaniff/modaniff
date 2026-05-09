@@ -34,7 +34,11 @@ I always try to improve my skills by building projects and completing college as
 ## ⚽ SIUUUU Cristiano Ronaldo
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IzHVlYV1zDrGSMD28j/giphy.gif" width="250" alt="Cristiano Ronaldo SIUUU" />
+  <img
+    src="https://media.tenor.com/9jM0K0x6u2QAAAAC/cristiano-ronaldo-siuuu.gif"
+    width="300"
+    alt="Cristiano Ronaldo SIUUU Celebration"
+  />
 </p>
 
 <p align="center">
@@ -45,7 +49,6 @@ I always try to improve my skills by building projects and completing college as
   <i>"Your love makes me strong, your hate makes me unstoppable."</i><br>
   — Cristiano Ronaldo
 </p>
-
 
 ##  My GitHub Stats
 
