@@ -1,33 +1,30 @@
-
-
 <h1 align="center">MOHAMMAD DANI FERDIANSYAH</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;Learning+PHP+and+Database;Always+Smile+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;Learning+PHP+and+Database;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
+## 👨‍💻 Who Am I?
 
-## Who am I?
-
- Hi! I am **Mohammad Dani Ferdiansyah**.  
- I am currently studying **Informatics Engineering** at **Universitas Trunojoyo Madura**.  
-I enjoy learning about **web development, databases, and programming**.  
-Right now, I am exploring **Laravel, MySQL, GitHub, and data mining**.  
+Hi! I am **Mohammad Dani Ferdiansyah**.  
+I am currently studying **Informatics Engineering** at **Universitas Trunojoyo Madura**.  
+I enjoy learning about **Web Development, Databases, and Programming**.  
+Right now, I am exploring **Laravel, MySQL, GitHub, and Data Mining**.  
 I always try to improve my skills by building projects and completing college assignments.
 
 ---
 
-## Quick Facts
+## 🚀 Quick Facts
 
-- Based in Indonesia
-- Informatics Engineering student at UTM
-- Interested in Web Development
-- Learning Database Management
-- Exploring Laravel, GitHub, and Data Mining
-- My Hobby Is Play FootBall or Futsal
-- And related to sports
+- 🌍 Based in Indonesia
+- 🎓 Informatics Engineering Student at UTM
+- 💻 Interested in Web Development
+- 🗄️ Learning Database Management
+- 📊 Exploring Data Mining and Machine Learning
+- ⚽ Hobby: Playing Football and Futsal
+- 🐐 Big Fan of Cristiano Ronaldo
 
 ---
 
@@ -35,9 +32,9 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://media.tenor.com/9jM0K0x6u2QAAAAC/cristiano-ronaldo-siuuu.gif"
-    width="300"
-    alt="Cristiano Ronaldo SIUUU Celebration"
+    src="https://media.tenor.com/IwCG4d7l4bAAAAAC/cristiano-ronaldo-siu.gif"
+    width="350"
+    alt="Cristiano Ronaldo SIUU Celebration"
   />
 </p>
 
@@ -50,16 +47,54 @@ I always try to improve my skills by building projects and completing college as
   — Cristiano Ronaldo
 </p>
 
-##  My GitHub Stats
+---
+
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight" />
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=modaniff&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=modaniff&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/modaniff">
+    <img src="https://img.shields.io/badge/GitHub-modaniff-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! ✨
+</p>
