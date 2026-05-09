@@ -32,12 +32,11 @@ I always try to improve my skills by building projects and completing college as
 ---
 
 
-## ⚙️ My GitHub Stats
+##  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight" />
 </p>
----
 
 ## GitHub Streak
 
