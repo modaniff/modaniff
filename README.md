@@ -16,30 +16,31 @@ I always try to improve my skills by building projects and completing college as
 
 ---
 
-## 🚀 Quick Facts
+## Quick Facts
 
-- 🌍 Based in Indonesia
-- 🎓 Informatics Engineering Student at UTM
-- 💻 Interested in Web Development
-- 🗄️ Learning Database Management
-- 📊 Exploring Data Mining and Machine Learning
-- ⚽ Hobby: Playing Football and Futsal
-- 🐐 Big Fan of Cristiano Ronaldo
+- Based in Indonesia
+- Informatics Engineering Student at Universitas Trunojoyo Madura
+- Interested in Web Development and Programming
+- Learning Database Management and Data Mining
+- Exploring Laravel, MySQL, GitHub, and Machine Learning
+- Hobby: Playing Football, Futsal, and Other Sports
+- Dream Career: Joining the Indonesian Navy 
+- Always Learning New Things and Smile
 
 ---
 
-## ⚽ SIUUUU Cristiano Ronaldo
+
 
 <p align="center">
   <img
-    src="https://media.tenor.com/IwCG4d7l4bAAAAAC/cristiano-ronaldo-siu.gif"
+    src="https://media.giphy.com/media/3o7TKxD6awoTUJJ17y/giphy.gif"
     width="350"
     alt="Cristiano Ronaldo SIUU Celebration"
   />
 </p>
 
 <p align="center">
-  <b>SIUUUUUUUUUUUUUUUUUUUUUU! 🐐⚽🔥</b>
+  <b>SIUUUUUUUUUUUUUUUUUUUUUU! 🐐</b>
 </p>
 
 <p align="center">
@@ -49,7 +50,7 @@ I always try to improve my skills by building projects and completing college as
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img
@@ -66,7 +67,7 @@ I always try to improve my skills by building projects and completing college as
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img
@@ -77,7 +78,7 @@ I always try to improve my skills by building projects and completing college as
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
@@ -85,16 +86,7 @@ I always try to improve my skills by building projects and completing college as
 
 ---
 
-## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/modaniff">
-    <img src="https://img.shields.io/badge/GitHub-modaniff-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Thanks for visiting my profile! ✨
+  ✨ Don't Forget Alwasys 24434 ✨
 </p>
