@@ -58,11 +58,6 @@ I always try to improve my skills by building projects and completing college as
     alt="GitHub Stats"
     width="48%"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-    width="48%"
-  />
 </p>
 
 ---
