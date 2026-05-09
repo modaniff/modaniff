@@ -34,9 +34,6 @@ I always try to improve my skills by building projects and completing college as
 <p align="center">
   <img src="./siuu.gif" width="350" alt="Cristiano Ronaldo SIUU Celebration" />
 </p>
-<p align="center">
-  <b>SIUUUUUUUUUUUUUUUUUUUUUU! 🐐</b>
-</p>
 
 <p align="center">
   <i>"Your love makes me strong, your hate makes me unstoppable."</i><br>
@@ -77,5 +74,5 @@ I always try to improve my skills by building projects and completing college as
 
 
 <p align="center">
-  ✨ Don't Forget Alwasys 24434 ✨
+  ✨ Don't Forget Alwasys 24434 and Smile ✨
 </p>
