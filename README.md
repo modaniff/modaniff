@@ -32,11 +32,7 @@ I always try to improve my skills by building projects and completing college as
 
 
 <p align="center">
-  <img
-    src="https://media.tenor.com/tfUHnS0Ww3AAAAAC/cristiano-ronaldo-siuuu.gif"
-    width="350"
-    alt="Cristiano Ronaldo SIUU Celebration"
-  />
+  <img src="./siuu.gif" width="350" alt="Cristiano Ronaldo SIUU Celebration" />
 </p>
 <p align="center">
   <b>SIUUUUUUUUUUUUUUUUUUUUUU! 🐐</b>
