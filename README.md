@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## Who Am I?
 
 Hi! I am **Mohammad Dani Ferdiansyah**.  
 I am currently studying **Informatics Engineering** at **Universitas Trunojoyo Madura**.  
