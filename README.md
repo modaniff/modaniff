@@ -3,7 +3,7 @@
 <h1 align="center">MOHAMMAD DANI FERDIANSYAH</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;Learning+Laravel+and+Database;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Web+Development+Enthusiast;Learning+PHP+and+Database;Always+Smile+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,6 +30,21 @@ I always try to improve my skills by building projects and completing college as
 - And related to sports
 
 ---
+
+## ⚽ SIUUUU Cristiano Ronaldo
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IzHVlYV1zDrGSMD28j/giphy.gif" width="250" alt="Cristiano Ronaldo SIUUU" />
+</p>
+
+<p align="center">
+  <b>SIUUUUUUUUUUUUUUUUUUUUUU! 🐐⚽🔥</b>
+</p>
+
+<p align="center">
+  <i>"Your love makes me strong, your hate makes me unstoppable."</i><br>
+  — Cristiano Ronaldo
+</p>
 
 
 ##  My GitHub Stats
