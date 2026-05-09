@@ -75,13 +75,6 @@ I always try to improve my skills by building projects and completing college as
 </p>
 
 ---
-
-## 🌟 Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/⭐_PRO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="PRO Badge" />
-</p>
-
 <p align="center">
   ✨ Don't Forget Always 24434 and Smile ✨
 </p>
