@@ -32,22 +32,11 @@ I always try to improve my skills by building projects and completing college as
 ---
 
 
-## My GitHub Stats
+## ⚙️ My GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 ## GitHub Streak
