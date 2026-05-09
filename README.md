@@ -33,7 +33,7 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://tenor.com/id/view/cmc-good-morning-love-gif-133561736696239591"
+    src="https://tenor.com/j1Srq7EC3L.gif"
     width="350"
     alt="Cristiano Ronaldo SIUU Celebration"
   />
