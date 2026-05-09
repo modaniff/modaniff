@@ -33,7 +33,7 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/3o7TKxD6awoTUJJ17y/giphy.gif"
+    src="https://media.tenor.com/tfUHnS0Ww3AAAAAC/cristiano-ronaldo-siuuu.gif"
     width="350"
     alt="Cristiano Ronaldo SIUU Celebration"
   />
@@ -56,12 +56,12 @@ I always try to improve my skills by building projects and completing college as
   <img
     src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="GitHub Stats"
-    width="49%"
+    width="48%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
-    width="49%"
+    width="48%"
   />
 </p>
 
