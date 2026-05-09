@@ -54,8 +54,9 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight"
-    width="48%"
+    src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"
+    width="350"
+    alt="Cristiano Ronaldo SIUU Celebration"
   />
 </p>
 
