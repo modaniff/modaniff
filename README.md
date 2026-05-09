@@ -54,8 +54,11 @@ I always try to improve my skills by building projects and completing college as
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight"
     width="48%"
   />
 </p>
