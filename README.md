@@ -21,23 +21,31 @@ I always try to improve my skills by building projects and completing college as
 
 ## Quick Facts
 
-- 🌟 Based in Indonesia
-- 📘 Informatics Engineering student at UTM
-- 💻 Interested in Web Development
-- 🗄️ Learning Database Management
-- 🚀 Exploring Laravel, GitHub, and Data Mining
+- Based in Indonesia
+- Informatics Engineering student at UTM
+- Interested in Web Development
+- Learning Database Management
+- Exploring Laravel, GitHub, and Data Mining
+- My Hobby Is Play FootBall or Futsal
+- And related to sports
 
 ---
 
 
-## ⚙️ My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=modaniff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=modaniff&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
