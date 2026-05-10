@@ -69,7 +69,7 @@ I always try to improve my skills by building projects and completing college as
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,github,vscode,facebook" />
 </p>
 
 ---
